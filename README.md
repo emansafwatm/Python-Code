@@ -8,7 +8,6 @@ Welcome to this repository! This collection contains the Jupyter notebooks I use
 .
 ├── notebooks/        # Jupyter notebooks
 ├── datasets/         # Sample datasets (if applicable)
-├── images/           # Figures and diagrams
 ├── requirements.txt  # Python dependencies
 └── README.md
 ```
