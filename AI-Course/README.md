@@ -33,8 +33,8 @@ After completing these notebooks, students should be able to:
 | `BFS_exercises.ipynb` | Breadth-first search exercises |
 | `Depth_First_Search.ipynb` | Depth-first search |
 | `Uniform_Cost_Search.ipynb` | Uniform-cost search |
-| `A_.ipynb` | Heuristic search example |
-| `A__2.ipynb` | Additional heuristic search example |
+| `A_Star_Search.ipynb` | A* search on a weighted graph using heuristic estimates |
+| `A_Star_Search_Extended_Graph.ipynb` | Extended A* search example using a larger weighted graph |
 
 ### Game-Tree Search
 
@@ -73,14 +73,15 @@ A suitable progression is:
 2. `BFS.ipynb`
 3. `Depth_First_Search.ipynb`
 4. `Uniform_Cost_Search.ipynb`
-5. `A_.ipynb`
-6. `Alpha_Beta_Pruning.ipynb`
-7. `Bisection_Method.ipynb`
-8. `BFGS.ipynb`
-9. `Naive_Bayes_Classifiers.ipynb`
-10. `DecisionTree1.ipynb`
-11. `NeuralNetwork.ipynb`
-12. `Neural_Network_from_Scratch.ipynb`
+5. `A_Star_Search.ipynb`
+6. `A_Star_Search_Extended_Graph.ipynb`
+7. `Alpha_Beta_Pruning.ipynb`
+8. `Bisection_Method.ipynb`
+9. `BFGS.ipynb`
+10. `Naive_Bayes_Classifiers.ipynb`
+11. `DecisionTree1.ipynb`
+12. `NeuralNetwork.ipynb`
+13. `Neural_Network_from_Scratch.ipynb`
 
 The additional notebooks and exercise files may be used for reinforcement after the corresponding introductory lesson.
 
