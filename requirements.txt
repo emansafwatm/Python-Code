@@ -14,6 +14,7 @@ seaborn
 
 # Machine learning
 scikit-learn
+scikit-optimize
 
 # Natural language processing
 nltk
