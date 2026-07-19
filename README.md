@@ -1,6 +1,6 @@
-# Artificial Intelligence and Machine Learning Teaching Portfolio
+# AI/ML Teaching Portfolio
 
-This repository presents a curated collection of Jupyter notebooks developed for teaching and demonstrating concepts in artificial intelligence, data science, machine learning, natural language processing, and computer vision.
+This repository presents a curated collection of Jupyter notebooks developed for teaching and demonstrating concepts in artificial intelligence, machine learning, data science, natural language processing, deep learning, and computer vision.
 
 The materials combine conceptual explanation, Python implementation, practical examples, visual analysis, and guided exercises. They are intended to demonstrate both technical knowledge and experience in developing instructional content.
 
@@ -24,10 +24,25 @@ The notebooks generally follow an implementation-oriented sequence:
 2. Explain the relevant algorithm or model.
 3. Implement the method using Python.
 4. Apply it to a practical example or dataset.
-5. inspect and interpret the resulting output.
+5. Inspect and interpret the resulting output.
 6. Discuss limitations, parameter choices, or possible extensions.
 
 Some notebooks implement algorithms manually to clarify their internal operation. Others use established Python libraries to demonstrate practical workflows.
+
+## Teaching Context
+
+The repository includes materials associated with undergraduate and professional instruction in:
+
+- Natural Language Processing
+- Machine Learning
+- Introduction to Artificial Intelligence
+- Deep Learning for Natural Language Processing
+- Python programming
+- Data exploration
+- Data structures
+- Object-oriented programming
+
+The notebooks emphasize practical implementation, experimentation, and interpretation rather than serving only as theoretical lecture notes.
 
 ## Repository Structure
 
@@ -58,29 +73,29 @@ Some notebooks implement algorithms manually to clarify their internal operation
 
 The repository includes examples covering:
 
-* classical artificial-intelligence search;
-* numerical and heuristic optimization;
-* exploratory data analysis;
-* supervised and unsupervised learning;
-* regression and classification;
-* regularization and hyperparameter selection;
-* neural networks and deep learning;
-* natural language preprocessing;
-* Bag-of-Words and TF–IDF representations;
-* Word2Vec, CBOW, and Skip-Gram;
-* text classification and sentiment analysis;
-* pretrained language models;
-* Transformer fine-tuning;
-* image processing and computer vision;
-* object-detection workflows.
+- classical artificial-intelligence search
+- numerical and heuristic optimization
+- exploratory data analysis
+- supervised and unsupervised learning
+- regression and classification
+- regularization and hyperparameter selection
+- neural networks and deep learning
+- natural language preprocessing
+- Bag-of-Words and TF–IDF representations
+- Word2Vec, CBOW, and Skip-Gram
+- text classification and sentiment analysis
+- pretrained language models
+- Transformer fine-tuning;
+- image processing and computer vision
+- object-detection workflows
 
 ## Getting Started
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/emansafwatm/Python-Code.git
-cd Python-Code
+git clone https://github.com/emansafwatm/AI-ML-Teaching-Portfolio.git
+cd AI-ML-Teaching-Portfolio
 ```
 
 Create a virtual environment:
@@ -151,9 +166,22 @@ The example is intentionally small and self-contained so that the complete train
 
 ## Dataset Use
 
-Datasets included in the repository are used for instructional demonstrations. Dataset directories should document the source, purpose, and any preprocessing applied.
+Datasets included in the repository are used for instructional demonstrations. Where datasets are included, their directories should identify the source, instructional purpose, applicable license, and any preprocessing performed.
 
-External datasets, corpora, and pretrained models remain subject to their original licences and usage conditions.
+External datasets, corpora, and pretrained models remain subject to their original licenses and usage conditions.
+
+## Repository Scope and Use
+
+The repository is maintained as an academic teaching portfolio. Individual notebooks may differ in age, library version, dataset requirements, and level of completion.
+
+Before running a notebook:
+
+1. Review its imports and required packages.
+2. Confirm the expected dataset paths.
+3. Use an isolated Python or Conda environment.
+4. Check whether the notebook was designed for local execution, Google Colab, or a GPU environment.
+
+Where third-party datasets, tutorials, or external examples are used, their original licenses and attribution requirements remain applicable.
 
 ## Intended Use
 
@@ -171,7 +199,14 @@ The notebooks are educational implementations. Research-specific experimental co
 
 **Eman Khater**
 
-AI researcher and instructor with interests in large language models, natural language processing, machine translation, high-performance computing, model optimization, and applied artificial intelligence.
+AI researcher and instructor specializing in large language models, natural language processing, multilingual machine translation, multimodal AI, knowledge-enhanced systems, high-performance computing, and model optimization.
+
+## License
+
+The original instructional code and documentation in this repository are available under the license included in the repository.
+
+Third-party datasets, pretrained models, adapted examples, and external learning materials remain subject to their original licenses and attribution requirements.
+
 
 ## Contributions
 
