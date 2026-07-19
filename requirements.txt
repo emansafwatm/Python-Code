@@ -26,5 +26,5 @@ transformers
 datasets
 
 # Computer vision
-Pillow
+pillow
 opencv-python
