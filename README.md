@@ -146,6 +146,21 @@ Individual notebooks may require additional libraries such as:
 
 The required packages are identified within the relevant notebook or subject documentation.
 
+## Environment Notes
+
+The root `requirements.txt` provides a general baseline environment for the teaching portfolio. It covers the principal libraries used across the notebooks but does not guarantee that every notebook will run unchanged under one identical package configuration.
+
+Because the materials were developed across different courses and periods, some notebooks may require:
+
+- Additional packages
+- Specific library versions
+- Downloaded NLTK or other NLP resources
+- External datasets or pretrained models
+- Google Colab
+- CUDA-enabled hardware
+
+Notebook-specific installation instructions take precedence where provided.
+
 ## NLP Transformer Example
 
 The NLP section includes a compact example of fine-tuning a pretrained Transformer for sentiment classification.
