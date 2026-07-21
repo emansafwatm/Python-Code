@@ -18,7 +18,9 @@ After completing these notebooks, students should be able to:
 - create and interpret pivot tables;
 - calculate and interpret correlation coefficients;
 - distinguish correlation from causation;
-- create statistical and comparative visualizations;
+- create and interpret common Matplotlib visualizations;
+- choose an appropriate chart for an analytical question;
+- identify misleading or unclear graphs;
 - identify potential outliers;
 - analyze historical election results;
 - communicate findings clearly and acknowledge analytical limitations.
@@ -29,6 +31,7 @@ After completing these notebooks, students should be able to:
 |---|---|
 | `Data_Cleaning_and_Missing_Values.ipynb` | Dataset inspection, duplicates, missing values, inconsistent categories, type conversion, invalid values, outlier screening, validation, and documentation |
 | `Exploratory_Data_Analysis.ipynb` | Descriptive statistics, distributions, categorical summaries, grouping, pivot tables, correlation, outlier analysis, data-quality reporting, and interpretation |
+| `03_Data_Visualization_with_Matplotlib.ipynb` | Line charts, bar charts, histograms, scatter plots, box plots, pie charts, subplots, annotations, chart selection, misleading graphs, and figure export |
 | `Correlation.ipynb` | Pearson correlation, statistical interpretation, and multivariable visualization |
 | `US_Presidential_Election_Analysis.ipynb` | Exploratory analysis of historical United States presidential-election results |
 
@@ -36,8 +39,9 @@ After completing these notebooks, students should be able to:
 
 1. `Data_Cleaning_and_Missing_Values.ipynb`
 2. `Exploratory_Data_Analysis.ipynb`
-3. `Correlation.ipynb`
-4. `US_Presidential_Election_Analysis.ipynb`
+3. `03_Data_Visualization_with_Matplotlib.ipynb`
+4. `Correlation.ipynb`
+5. `US_Presidential_Election_Analysis.ipynb`
 
 ## Environment
 
@@ -57,6 +61,8 @@ The course emphasizes that:
 - cleaning and analysis should be reproducible;
 - missing-value treatment should be justified;
 - visualizations should answer analytical questions;
+- chart type should match the variables and analytical purpose;
+- axes, labels, scales, and legends should be clear;
 - potential outliers should be investigated rather than automatically deleted;
 - correlation should not be interpreted as causation;
 - findings should be supported by measurable evidence;
