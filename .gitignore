@@ -52,3 +52,5 @@ dist/
 
 # Generated notebook audit report
 notebook_audit.txt
+
+.ipynb_checkpoints/
