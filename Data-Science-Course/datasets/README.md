@@ -1,17 +1,32 @@
-
 # Data Science Course Datasets
 
-This directory contains datasets used by the instructional notebooks in the Data Science course.
+## employee_statistics.csv
 
-Datasets are included only when they are sufficiently small and appropriate for redistribution. Third-party datasets remain governed by their original terms and are not covered by the repository's MIT licence.
+A synthetic dataset containing 500 anonymized employee records.
 
-## Included Dataset
+### Main variables
 
-### `president-1976-2016.csv`
+- department and city;
+- age and years of experience;
+- education level;
+- annual salary;
+- weekly working hours;
+- performance score;
+- job satisfaction;
+- completed projects;
+- training hours;
+- absence days;
+- hire date.
 
-This file contains state-level returns for United States presidential elections from 1976 through 2016.
+### Purpose
 
-It is used by:
+The dataset is designed for teaching:
 
-```text
-../notebooks/US_Presidential_Election_Analysis.ipynb
+- descriptive statistics;
+- data visualization;
+- grouping and aggregation;
+- correlation analysis;
+- hypothesis testing;
+- outlier analysis.
+
+The records are entirely synthetic and do not describe real people or organizations.
