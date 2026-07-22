@@ -1,4 +1,4 @@
-# 📊 Data Science Course
+# Data Science Course
 
 A hands-on collection of Jupyter notebooks covering the essential concepts of modern data science using Python.
 
@@ -6,7 +6,7 @@ This course is part of the **AI-ML-Teaching-Portfolio** and follows a progressiv
 
 ---
 
-## 📚 Course Contents
+## Course Contents
 
 | Notebook | Topic |
 |----------|------|
@@ -21,7 +21,7 @@ This course is part of the **AI-ML-Teaching-Portfolio** and follows a progressiv
 
 ---
 
-## 🛠 Technologies
+## Technologies
 
 - Python
 - Pandas
@@ -34,7 +34,7 @@ This course is part of the **AI-ML-Teaching-Portfolio** and follows a progressiv
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 Data-Science-Course/
@@ -56,7 +56,7 @@ Data-Science-Course/
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 After completing this course, you will be able to:
 
@@ -71,7 +71,7 @@ After completing this course, you will be able to:
 
 ---
 
-## ▶️ Getting Started
+## Getting Started
 
 Clone the repository
 
@@ -107,7 +107,7 @@ jupyter notebook
 
 ---
 
-## 📖 Recommended Learning Order
+## Recommended Learning Order
 
 Run the notebooks sequentially:
 
