@@ -6,7 +6,10 @@ ipywidgets
 # Numerical computing and data analysis
 numpy
 pandas
+matplotlib
+seaborn
 scipy
+statsmodels
 
 # Visualization
 matplotlib
